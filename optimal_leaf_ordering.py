@@ -1,4 +1,5 @@
-# from
+# code initially adapted @markak on GitHub, algorithm is from
+# Ziv Bar-Joseph et al., Bioinformatics 2001
 
 import itertools
 
