@@ -19,3 +19,9 @@ export PATH="/Users/jwebber/.cargo/bin:$PATH"
 
 export PATH=${PATH#'/Users/jwebber/.cargo/bin:$PATH'}
 ```
+
+### For setting up remote github access
+
+Just create a new ssh key with a passphrase: `ssh-keygen -t ed25519 -C "james@whatever.domain"`
+
+And add it to [GitHub settings](https://github.com/settings/keys)
